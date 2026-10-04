@@ -12,6 +12,16 @@
 
 ---
 
+# 🎤 [Stoic Bliss](https://github.com/GhostDog45/Stoic-Bliss)
+
+<p align="center">
+  <a href="https://github.com/GhostDog45/Stoic-Bliss">
+    <img src="https://raw.githubusercontent.com/GhostDog45/Stoic-Bliss/master/assets/band_cover.jpg" alt="Stoic Bliss Band Cover" width="750" />
+  </a>
+</p>
+
+---
+
 # 🎸 [The Watson Brothers](https://github.com/GhostDog45/The-Watson-Brothers)
 
 <p align="center">
@@ -21,11 +31,3 @@
 </p>
 
 ---
-
-# 🎤 [Stoic Bliss](https://github.com/GhostDog45/Stoic-Bliss)
-
-<p align="center">
-  <a href="https://github.com/GhostDog45/Stoic-Bliss">
-    <img src="https://raw.githubusercontent.com/GhostDog45/Stoic-Bliss/master/assets/band_cover.jpg" alt="Stoic Bliss Band Cover" width="750" />
-  </a>
-</p>
