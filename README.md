@@ -4,6 +4,12 @@
 
 # 🎸 [Artcell](https://github.com/GhostDog45/Artcell)
 
+<p align="center">
+  <a href="https://github.com/GhostDog45/Artcell">
+    <img src="https://raw.githubusercontent.com/GhostDog45/Artcell/master/assets/band_cover.jpg" alt="Artcell Band Cover" width="750" />
+  </a>
+</p>
+
 ---
 
 # 🎸 [Aurthohin (অর্থহীন)](https://github.com/GhostDog45/Aurthohin)
@@ -17,6 +23,12 @@
 ---
 
 # 🎸 [Black](https://github.com/GhostDog45/Black)
+
+<p align="center">
+  <a href="https://github.com/GhostDog45/Black">
+    <img src="https://raw.githubusercontent.com/GhostDog45/Black/master/assets/band_cover.jpg" alt="Black Band Cover" width="750" />
+  </a>
+</p>
 
 ---
 
