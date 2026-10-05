@@ -32,5 +32,15 @@
 
 ---
 
+# 🎸 [Vibe](https://github.com/GhostDog45/Vibe)
+
+<p align="center">
+  <a href="https://github.com/GhostDog45/Vibe">
+    <img src="https://raw.githubusercontent.com/GhostDog45/Vibe/master/assets/band_cover.jpg" alt="Vibe Band Cover" width="750" />
+  </a>
+</p>
+
+---
+
 ### 🙏 Special Thanks & Gratitude
 Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
