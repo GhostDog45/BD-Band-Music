@@ -22,21 +22,25 @@
 
 ---
 
-# 🎸 [Bassbaba Sumon (Mixed Albums)](https://github.com/GhostDog45/Mixed-Albums)
-
-<p align="center">
-  <a href="https://github.com/GhostDog45/Mixed-Albums">
-    <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/assets/band_cover.jpg" alt="Bassbaba Sumon Solo Projects Cover" width="750" />
-  </a>
-</p>
-
----
-
 # 🎸 [Black](https://github.com/GhostDog45/Black)
 
 <p align="center">
   <a href="https://github.com/GhostDog45/Black">
     <img src="https://raw.githubusercontent.com/GhostDog45/Black/master/assets/band_cover.jpg" alt="Black Band Cover" width="750" />
+  </a>
+</p>
+
+---
+
+# 🎸 [Minerva](https://github.com/GhostDog45/Minerva)
+
+---
+
+# 🎸 [Mixed Albums](https://github.com/GhostDog45/Mixed-Albums)
+
+<p align="center">
+  <a href="https://github.com/GhostDog45/Mixed-Albums">
+    <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/assets/band_cover.jpg" alt="Mixed Albums Band Cover" width="750" />
   </a>
 </p>
 
