@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/GhostDog45/Minerva">
-    <img src="https://raw.githubusercontent.com/GhostDog45/Minerva/master/assets/band_cover.png" alt="Minerva Band Cover" width="500" />
+    <img src="https://raw.githubusercontent.com/GhostDog45/Minerva/master/assets/band_cover.png" alt="Minerva Band Cover" width="750" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/GhostDog45/Mixed-Albums">
-    <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/assets/band_cover.png" alt="Mixed Albums Cover" width="450" />
+    <img src="https://raw.githubusercontent.com/GhostDog45/Mixed-Albums/master/assets/band_cover.png" alt="Mixed Albums Band Cover" width="750" />
   </a>
 </p>
 
